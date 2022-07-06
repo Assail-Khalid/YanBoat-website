@@ -17,5 +17,9 @@ html,body{
     --box-shadow:0px 10px 30px rgba(57,56,61,0.205);;
 
     /* font family variable */
-    --roboto:'Roboto',cursive;
+    /* --roboto:'Serif',Poppins,Monospace ,Sans-serif; */
+    --roboto:Poppins,Sans-serif;
  }
+
+
+ 
